@@ -1,0 +1,4 @@
+repository "IndustrySim@industarysim-hdu@cloud.cn"
+  path "/"
+    smartbranch "/main/jzk/1.6 修复斜面问题" changeset "359" 
+     

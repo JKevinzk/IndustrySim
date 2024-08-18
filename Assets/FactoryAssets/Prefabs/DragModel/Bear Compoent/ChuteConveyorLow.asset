@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb994f572dac7749bc9339292dc67f4, type: 3}
+  m_Name: ChuteConveyorLow
+  m_EditorClassIdentifier: 
+  nameString: ChuteConveyorLow
+  prefab: {fileID: 7764859900195713388, guid: de4daf21a1de4e849a0d3b2f590fdc84, type: 3}
+  width: 1.125
+  length: 1.125
+  componentType: 2

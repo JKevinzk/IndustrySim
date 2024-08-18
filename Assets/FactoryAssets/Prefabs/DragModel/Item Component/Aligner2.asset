@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb994f572dac7749bc9339292dc67f4, type: 3}
+  m_Name: Aligner2
+  m_EditorClassIdentifier: 
+  nameString: Aligner2
+  prefab: {fileID: 3098166177837369474, guid: 6a51920982d240841aa9b739ca5eb061, type: 3}
+  width: 0.5
+  length: 1.875
+  componentType: 1

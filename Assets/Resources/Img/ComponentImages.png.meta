@@ -1,0 +1,2991 @@
+fileFormatVersion: 2
+guid: 0cc40b3297bccd74abfa99c1794b572f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4806634005987594785
+    second: PaletteAtlas-sharedassets1.assets-621_0
+  - first:
+      213: 8010580196488228881
+    second: PaletteAtlas-sharedassets1.assets-621_1
+  - first:
+      213: -1536291608057891168
+    second: PaletteAtlas-sharedassets1.assets-621_2
+  - first:
+      213: -6571740739914289507
+    second: Remover
+  - first:
+      213: 4411134347412618482
+    second: Column
+  - first:
+      213: -2409275251326249877
+    second: SquarePallet
+  - first:
+      213: -3911864348081372441
+    second: PalletizingBox
+  - first:
+      213: 3816011597197318483
+    second: PaletteAtlas-sharedassets1.assets-621_7
+  - first:
+      213: 4441412361486547047
+    second: PaletteAtlas-sharedassets1.assets-621_8
+  - first:
+      213: 2880031495140133518
+    second: RollerStop
+  - first:
+      213: -3140072191907441112
+    second: Elevator
+  - first:
+      213: -2130680615756243399
+    second: BoxS
+  - first:
+      213: 2458401517542198693
+    second: ResetButton
+  - first:
+      213: -6977000464872498797
+    second: GreenLightIndicator
+  - first:
+      213: 7596337181900267627
+    second: ElectricSwitchboard
+  - first:
+      213: 2747716166529542965
+    second: ProductLidBlue
+  - first:
+      213: 938654344493941774
+    second: CornerHandrail
+  - first:
+      213: 6902874978439970878
+    second: PlatformS
+  - first:
+      213: 6557392455003341956
+    second: Aligner1
+  - first:
+      213: 4484253592139123345
+    second: ProductLidGray
+  - first:
+      213: -6256853118792084943
+    second: HandrailL
+  - first:
+      213: 334177336537087878
+    second: ProductLidGreen
+  - first:
+      213: 6058129298901529835
+    second: RetroreflectiveReflector
+  - first:
+      213: -3064300815611298284
+    second: PlatformXL
+  - first:
+      213: -2724013534457895608
+    second: AlarmSiren
+  - first:
+      213: 8320108577733232887
+    second: MetalCorner
+  - first:
+      213: 3172388011407652685
+    second: ProductBaseBlue
+  - first:
+      213: 768477394217675115
+    second: GrayProductBase
+  - first:
+      213: -40879045548669697
+    second: CapacitiveSensor
+  - first:
+      213: -8786418570002556444
+    second: PaletteAtlas-sharedassets1.assets-621_34
+  - first:
+      213: 8012049073153088843
+    second: RetroreflectiveSensor
+  - first:
+      213: 1886182036058354585
+    second: ProductBaseGreen
+  - first:
+      213: 8992204545025754839
+    second: Stairs
+  - first:
+      213: -2731985814068783686
+    second: ChuteConveyorLow
+  - first:
+      213: -6120783155262894597
+    second: Pick&Place
+  - first:
+      213: 345341240920466413
+    second: LoadingConveyor
+  - first:
+      213: 7968324888180773388
+    second: StairsHandrail
+  - first:
+      213: 7177284180918001602
+    second: RawMaterialGray
+  - first:
+      213: -351890572720915821
+    second: RollerConveyor2M
+  - first:
+      213: 8185323302043292843
+    second: Emitter
+  - first:
+      213: -3330247606571848640
+    second: Pallet
+  - first:
+      213: -5928326069133646820
+    second: RawMaterialGreen
+  - first:
+      213: -8406136601920237758
+    second: ConveyorScale
+  - first:
+      213: -758102227207745808
+    second: RawMaterialBlue
+  - first:
+      213: 5128379975190483931
+    second: ChainTransfer
+  - first:
+      213: 3207738813352666938
+    second: EmergencyStop
+  - first:
+      213: -5573917169075010302
+    second: Palletizer
+  - first:
+      213: 7661122191452133958
+    second: PaletteAtlas-sharedassets1.assets-621_61
+  - first:
+      213: -6915047348599210795
+    second: Pusher
+  - first:
+      213: 1649397684637432549
+    second: PaletteAtlas-sharedassets1.assets-621_63
+  - first:
+      213: -2069548346039090049
+    second: Rack
+  - first:
+      213: 5492016131007189761
+    second: InductiveSensor
+  - first:
+      213: 4307465291029931203
+    second: PaletteAtlas-sharedassets1.assets-621_66
+  - first:
+      213: 8640892480404827145
+    second: BoxL
+  - first:
+      213: -5600131370025685625
+    second: Bracket
+  - first:
+      213: -6050454245276622321
+    second: PaletteAtlas-sharedassets1.assets-621_69
+  - first:
+      213: -8995023068411894055
+    second: HandrailXL
+  - first:
+      213: 6235367989815742701
+    second: PaletteAtlas-sharedassets1.assets-621_71
+  - first:
+      213: -59175568110997134
+    second: PaletteAtlas-sharedassets1.assets-621_72
+  - first:
+      213: 4172704323595980490
+    second: RedLightIndicator
+  - first:
+      213: 2245030813995315923
+    second: Selector
+  - first:
+      213: -2937891228811377315
+    second: ChuteConveyor
+  - first:
+      213: 7029284966095926437
+    second: PaletteAtlas-sharedassets1.assets-621_77
+  - first:
+      213: -1999650093260709827
+    second: DigitalDisplay
+  - first:
+      213: 8842838639547264020
+    second: PaletteAtlas-sharedassets1.assets-621_79
+  - first:
+      213: 9007041713040809836
+    second: HandrailS
+  - first:
+      213: 6164850958707728163
+    second: LightArrayEmitter
+  - first:
+      213: 5555511437682381156
+    second: SafeguardS
+  - first:
+      213: 7471107261898077987
+    second: SafeguardL
+  - first:
+      213: -4783707822690609868
+    second: StackableBox
+  - first:
+      213: 6938691223278344743
+    second: YellowLightIndicator
+  - first:
+      213: 8929662600910220104
+    second: PaletteAtlas-sharedassets1.assets-621_87
+  - first:
+      213: 88379435578764068
+    second: PaletteAtlas-sharedassets1.assets-621_88
+  - first:
+      213: -4723288793602169380
+    second: PopUpWheelSorter
+  - first:
+      213: 8814081673860813682
+    second: PaletteAtlas-sharedassets1.assets-621_90
+  - first:
+      213: -5851071729351856057
+    second: PaletteAtlas-sharedassets1.assets-621_91
+  - first:
+      213: 3522241084115657100
+    second: PivotArmSorter
+  - first:
+      213: 2341894084994225679
+    second: BoxM
+  - first:
+      213: -577186482178274689
+    second: PaletteAtlas-sharedassets1.assets-621_94
+  - first:
+      213: 6256857785623443579
+    second: PaletteAtlas-sharedassets1.assets-621_96
+  - first:
+      213: -2844271653944734988
+    second: PaletteAtlas-sharedassets1.assets-621_97
+  - first:
+      213: 6650443091058997299
+    second: Potentiometer
+  - first:
+      213: 7949371371900646838
+    second: DiffuseSensor
+  - first:
+      213: -5684326304192515673
+    second: HandrailM
+  - first:
+      213: -4126625265546990739
+    second: PaletteAtlas-sharedassets1.assets-621_101
+  - first:
+      213: 2685052854454001517
+    second: StartButton
+  - first:
+      213: 8193523628439010331
+    second: PaletteAtlas-sharedassets1.assets-621_103
+  - first:
+      213: -5514731271087029864
+    second: StopButton
+  - first:
+      213: -3638608431582175906
+    second: StraightSpurConveyor
+  - first:
+      213: 7988054989198665523
+    second: Tank
+  - first:
+      213: 364890487705910326
+    second: Turntable
+  - first:
+      213: -9043910490549431547
+    second: VisionSensor
+  - first:
+      213: -8824413342261925256
+    second: StackLight
+  - first:
+      213: -3537642610656108299
+    second: WarningLight
+  - first:
+      213: -8821782551670201290
+    second: WheelAligner
+  - first:
+      213: 763428964351171010
+    second: TwoAxisPickNPlace
+  - first:
+      213: 5718251796262512642
+    second: PaletteAtlas-sharedassets1.assets-621_113
+  - first:
+      213: 1057381044324740276
+    second: LightArrayReceiver
+  - first:
+      213: 8929893788314764049
+    second: RightPositioner
+  - first:
+      213: -1798841873037382369
+    second: SafeguardI
+  - first:
+      213: -7544881009279225723
+    second: PaletteAtlas-sharedassets1.assets-621_118
+  - first:
+      213: -4198130247802364604
+    second: PaletteAtlas-sharedassets1.assets-621_119
+  - first:
+      213: 7864620333163821443
+    second: PaletteAtlas-sharedassets1.assets-621_120
+  - first:
+      213: 1240553344921024926
+    second: PlatformL
+  - first:
+      213: -9175395190882691766
+    second: PlatformM
+  - first:
+      213: 2754438414134036699
+    second: StackerCrane
+  - first:
+      213: -3688397633415176242
+    second: MachiningCenter
+  - first:
+      213: 1454861644628664276
+    second: LeftPositioner
+  - first:
+      213: -1267497686973132257
+    second: Aligner3
+  - first:
+      213: 4444239569331268164
+    second: BeltConveyor4M
+  - first:
+      213: 4048287256620344565
+    second: BeltConveyorGate
+  - first:
+      213: 4600414257971918059
+    second: PaletteAtlas-sharedassets1.assets-621_131
+  - first:
+      213: -337910722654360096
+    second: BlueLightIndicator
+  - first:
+      213: -390962312996613731
+    second: StopBlade
+  - first:
+      213: 7397072870402207953
+    second: PlatformPillar
+  - first:
+      213: -3023887986926268525
+    second: Aligner2
+  - first:
+      213: -5870985908324585818
+    second: BeltConveyor2M
+  - first:
+      213: 8554299874383225334
+    second: BeltConveyor6M
+  - first:
+      213: 2693111176180011066
+    second: RollerConveyor6M
+  - first:
+      213: -2082564226714384757
+    second: RollerConveyor4M
+  - first:
+      213: -273709461990221012
+    second: PaletteAtlas-sharedassets1.assets-621_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddebc396d76b4db0800000000000000
+      internalID: -4806634005987594785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 973
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b5703f3c4b2f60800000000000000
+      internalID: 8010580196488228881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 973
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6bb4e0ceefdaae0800000000000000
+      internalID: -1536291608057891168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remover
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 919
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e22799d9c7cc4a0800000000000000
+      internalID: -6571740739914289507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 908
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbd0a515f773d30800000000000000
+      internalID: 4411134347412618482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquarePallet
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 924
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641f8e7ce8809ed0800000000000000
+      internalID: -2409275251326249877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletizingBox
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 929
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24813f91446b9c0800000000000000
+      internalID: -3911864348081372441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 875
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35997bd545235f430800000000000000
+      internalID: 3816011597197318483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 875
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683f6bd20113ad30800000000000000
+      internalID: 4441412361486547047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RollerStop
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 855
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac3c1c26de7f720800000000000000
+      internalID: 2880031495140133518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 864
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82656407af83c64d0800000000000000
+      internalID: -3140072191907441112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxS
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 893
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ed900d44d4e62e0800000000000000
+      internalID: -2130680615756243399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResetButton
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 847
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad4260b72ffd1220800000000000000
+      internalID: 2458401517542198693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLightIndicator
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 847
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3991a8dfa07bc2f90800000000000000
+      internalID: -6977000464872498797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricSwitchboard
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 813
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e1497b6c9b6960800000000000000
+      internalID: 7596337181900267627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProductLidBlue
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 853
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b6791ab49d12620800000000000000
+      internalID: 2747716166529542965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerHandrail
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0440723725c60d00800000000000000
+      internalID: 938654344493941774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformS
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 780
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c8da4830fbcf50800000000000000
+      internalID: 6902874978439970878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligner1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 804
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4840d4df1b9800b50800000000000000
+      internalID: 6557392455003341956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProductLidGray
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 813
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac83a22e44b3e30800000000000000
+      internalID: 4484253592139123345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HandrailL
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 761
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1325a9a1d313b29a0800000000000000
+      internalID: -6256853118792084943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProductLidGreen
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 773
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f774c548c33a400800000000000000
+      internalID: 334177336537087878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroreflectiveReflector
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 721
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be47960008cc21450800000000000000
+      internalID: 6058129298901529835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformXL
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 714
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e7c80c4aa6975d0800000000000000
+      internalID: -3064300815611298284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmSiren
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 724
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e7437f1c523ad0800000000000000
+      internalID: -2724013534457895608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalCorner
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 715
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8487c6ba6f67370800000000000000
+      internalID: 8320108577733232887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProductBaseBlue
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 730
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4739ad9616960c20800000000000000
+      internalID: 3172388011407652685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrayProductBase
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 689
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6923445e1e2aaa00800000000000000
+      internalID: 768477394217675115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapacitiveSensor
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 655
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4805389b4ce6ff0800000000000000
+      internalID: -40879045548669697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 667
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e91a1fecde501680800000000000000
+      internalID: -8786418570002556444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroreflectiveSensor
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 659
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d9940be24803f60800000000000000
+      internalID: 8012049073153088843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProductBaseGreen
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 648
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9933bf081901d2a10800000000000000
+      internalID: 1886182036058354585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stairs
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 614
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c9e5146abacc70800000000000000
+      internalID: 8992204545025754839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuteConveyorLow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 590
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab516057069061ad0800000000000000
+      internalID: -2731985814068783686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pick&Place
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 583
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4c5b462c9e0ba0800000000000000
+      internalID: -6120783155262894597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingConveyor
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 595
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36b576706eac400800000000000000
+      internalID: 345341240920466413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairsHandrail
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 555
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c025bee844d259e60800000000000000
+      internalID: 7968324888180773388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RawMaterialGray
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 605
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd5a78fe5da9360800000000000000
+      internalID: 7177284180918001602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RollerConveyor2M
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 518
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a39257365dd1bf0800000000000000
+      internalID: -351890572720915821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emitter
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 529
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4940eec2c189170800000000000000
+      internalID: 8185323302043292843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pallet
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 532
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ca03c327598c1d0800000000000000
+      internalID: -3330247606571848640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RawMaterialGreen
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 562
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e99889da5abda0800000000000000
+      internalID: -5928326069133646820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorScale
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 503
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f82255c47675b80800000000000000
+      internalID: -8406136601920237758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RawMaterialBlue
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 520
+        width: 59
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5091919, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe89db7a0eaa75f0800000000000000
+      internalID: -758102227207745808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainTransfer
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 461
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd394768a6aab2740800000000000000
+      internalID: 5128379975190483931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmergencyStop
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 454
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a376e16947d248c20800000000000000
+      internalID: 3207738813352666938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palletizer
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 453
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20545d9ddd775a2b0800000000000000
+      internalID: -5573917169075010302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 444
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64add52fa06c15a60800000000000000
+      internalID: 7661122191452133958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pusher
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 472
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcbcbde211d800a0800000000000000
+      internalID: -6915047348599210795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 396
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea7a2e8476d3e610800000000000000
+      internalID: 1649397684637432549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rack
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 388
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74c7d48ebc7743e0800000000000000
+      internalID: -2069548346039090049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InductiveSensor
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 396
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103166db29f873c40800000000000000
+      internalID: 5492016131007189761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 388
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e92a3cd037cb30800000000000000
+      internalID: 4307465291029931203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxL
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 424
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cafd4fded9ae770800000000000000
+      internalID: 8640892480404827145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bracket
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 324
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de81290365842b0800000000000000
+      internalID: -5600131370025685625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 355
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02688cabe7780ca0800000000000000
+      internalID: -6050454245276622321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HandrailXL
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 330
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d66ddc4d224b2380800000000000000
+      internalID: -8995023068411894055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 367
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de01fcc762a788650800000000000000
+      internalID: 6235367989815742701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 371
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271bc536224cd2ff0800000000000000
+      internalID: -59175568110997134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedLightIndicator
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 327
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acecca0797c68e930800000000000000
+      internalID: 4172704323595980490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selector
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 323
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d23ff171a3f72f10800000000000000
+      internalID: 2245030813995315923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuteConveyor
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 315
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5546f53e738a37d0800000000000000
+      internalID: -2937891228811377315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a434251f690d8160800000000000000
+      internalID: 7029284966095926437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DigitalDisplay
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 258
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d306e14b5d0df34e0800000000000000
+      internalID: -1999650093260709827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 300
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c205c24e218ba70800000000000000
+      internalID: 8842838639547264020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HandrailS
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 263
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f5ce677b07ffc70800000000000000
+      internalID: 9007041713040809836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightArrayEmitter
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 258
+        width: 12
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f100fb843fd8550800000000000000
+      internalID: 6164850958707728163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SafeguardS
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 259
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619dacd734291d40800000000000000
+      internalID: 5555511437682381156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SafeguardL
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 258
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b6489874bea760800000000000000
+      internalID: 7471107261898077987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StackableBox
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 258
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d447941bdc9db0800000000000000
+      internalID: -4783707822690609868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowLightIndicator
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 262
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a50a1a7ee2b4060800000000000000
+      internalID: 6938691223278344743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_87
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 272
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b285bf2d88ceb70800000000000000
+      internalID: 8929662600910220104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_88
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 258
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b2f1fd0acf93100800000000000000
+      internalID: 88379435578764068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopUpWheelSorter
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 258
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd562c50ed1837eb0800000000000000
+      internalID: -4723288793602169380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_90
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 258
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27311c75598e15a70800000000000000
+      internalID: 8814081673860813682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_91
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 258
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740f6a03341dccea0800000000000000
+      internalID: -5851071729351856057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PivotArmSorter
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 258
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812008ba9381e030800000000000000
+      internalID: 3522241084115657100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxM
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 258
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065bad2344108020800000000000000
+      internalID: 2341894084994225679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_94
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 261
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a4b98d3fb6df7f0800000000000000
+      internalID: -577186482178274689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_97
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa49e5100e1788d0800000000000000
+      internalID: -2844271653944734988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potentiometer
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 196
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b58971ce1b4c50800000000000000
+      internalID: 6650443091058997299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiffuseSensor
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 202
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53cc92527d15e60800000000000000
+      internalID: 7949371371900646838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HandrailM
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 197
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1323bd7573d11b0800000000000000
+      internalID: -5684326304192515673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_101
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 225
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b6bed4f284bb6c0800000000000000
+      internalID: -4126625265546990739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartButton
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 197
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f11e85859334520800000000000000
+      internalID: 2685052854454001517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_103
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 225
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c70e3345e35b170800000000000000
+      internalID: 8193523628439010331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StopButton
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 198
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918e13902db773b0800000000000000
+      internalID: -5514731271087029864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StraightSpurConveyor
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 204
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9dced8e0118dc0800000000000000
+      internalID: -3638608431582175906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 193
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337297da0b54bde60800000000000000
+      internalID: 7988054989198665523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turntable
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 205
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c31ad17f9501500800000000000000
+      internalID: 364890487705910326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VisionSensor
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 199
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035f5653539d7280800000000000000
+      internalID: -9043910490549431547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StackLight
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 197
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aa247a1d2698580800000000000000
+      internalID: -8824413342261925256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarningLight
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 202
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0ae81f9c4c7eec0800000000000000
+      internalID: -3537642610656108299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WheelAligner
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 215
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63465f1528bb29580800000000000000
+      internalID: -8821782551670201290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwoAxisPickNPlace
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 193
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c95567299e389a00800000000000000
+      internalID: 763428964351171010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_113
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208677c46bf4b5f40800000000000000
+      internalID: 5718251796262512642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightArrayReceiver
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 193
+        width: 12
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc253325729cae00800000000000000
+      internalID: 1057381044324740276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPositioner
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 193
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113087e761b5deb70800000000000000
+      internalID: 8929893788314764049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SafeguardI
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 193
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d228ed8da3907e0800000000000000
+      internalID: -1798841873037382369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_118
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 196
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580325152b23b4790800000000000000
+      internalID: -7544881009279225723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ddae248ce3db5c0800000000000000
+      internalID: -4198130247802364604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_120
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 340
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3893b83468eb42d60800000000000000
+      internalID: 7864620333163821443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformL
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b0f8c1b4573110800000000000000
+      internalID: 1240553344921024926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformM
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 128
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a451c9defa27aa080800000000000000
+      internalID: -9175395190882691766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StackerCrane
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 130
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8462ed42bb93620800000000000000
+      internalID: 2754438414134036699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachiningCenter
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 130
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf95e5f4ed20dcc0800000000000000
+      internalID: -3688397633415176242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftPositioner
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 129
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df9e6525f4b03410800000000000000
+      internalID: 1454861644628664276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligner3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 86
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f125656b191f86ee0800000000000000
+      internalID: -1267497686973132257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltConveyor4M
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 66
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aa9ba775c1dad30800000000000000
+      internalID: 4444239569331268164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltConveyorGate
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 81
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4a897afc76e2830800000000000000
+      internalID: 4048287256620344565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_131
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 96
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4fe02c464f7df30800000000000000
+      internalID: 4600414257971918059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueLightIndicator
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 68
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2462fcff7f4bf0800000000000000
+      internalID: -337910722654360096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StopBlade
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 82
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91954509d5039af0800000000000000
+      internalID: -390962312996613731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformPillar
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 9
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b002959ea7a660800000000000000
+      internalID: 7397072870402207953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligner2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 24
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f40baa5edf806d0800000000000000
+      internalID: -3023887986926268525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltConveyor2M
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae2df41c61168ea0800000000000000
+      internalID: -5870985908324585818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltConveyor6M
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e7c2c96af6b670800000000000000
+      internalID: 8554299874383225334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RollerConveyor6M
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3018d4985adf5520800000000000000
+      internalID: 2693111176180011066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RollerConveyor4M
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c0c4aede3913e0800000000000000
+      internalID: -2082564226714384757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletteAtlas-sharedassets1.assets-621_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 647
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bd86ac1b6933cf0800000000000000
+      internalID: -273709461990221012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d3b97995dbb667046b9ad9e85ac5c0f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
