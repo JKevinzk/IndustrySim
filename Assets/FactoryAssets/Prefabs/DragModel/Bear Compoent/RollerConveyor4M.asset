@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb994f572dac7749bc9339292dc67f4, type: 3}
+  m_Name: RollerConveyor4M
+  m_EditorClassIdentifier: 
+  nameString: RollerConveyor4M
+  prefab: {fileID: 5326189765148745067, guid: f34f901f8ec9eed43bb8559c7447bc03, type: 3}
+  width: 1.125
+  length: 4
+  componentType: 2

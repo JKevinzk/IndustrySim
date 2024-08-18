@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb994f572dac7749bc9339292dc67f4, type: 3}
+  m_Name: StackableBox
+  m_EditorClassIdentifier: 
+  nameString: StackableBox
+  prefab: {fileID: 447555559693258659, guid: 7471bde41dec2f5449b81b354cab802a, type: 3}
+  width: 0.625
+  length: 0.875
+  componentType: 1

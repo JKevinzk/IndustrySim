@@ -1,0 +1,6420 @@
+fileFormatVersion: 2
+guid: bd8dd85a2da5a084c85ba19da36b0427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8755869772277934829
+    second: FactoryIOIcons_0
+  - first:
+      213: 5320706752126607920
+    second: RightBoxArrow
+  - first:
+      213: -2039784389160817398
+    second: FactoryIOIcons_2
+  - first:
+      213: 3232997563072566747
+    second: FactoryIOIcons_3
+  - first:
+      213: 3668450143453652295
+    second: FactoryIOIcons_4
+  - first:
+      213: -2057761613012508957
+    second: DropdownArrow
+  - first:
+      213: 8910831609900918703
+    second: FactoryIOIcons_6
+  - first:
+      213: -8436789780522696633
+    second: FactoryIOIcons_7
+  - first:
+      213: -1142599578478615929
+    second: FactoryIOIcons_8
+  - first:
+      213: -8128832851169338894
+    second: FactoryIOIcons_9
+  - first:
+      213: 5740185526587292497
+    second: FactoryIOIcons_10
+  - first:
+      213: -7047751319494849501
+    second: FactoryIOIcons_12
+  - first:
+      213: 931623346958298575
+    second: FactoryIOIcons_13
+  - first:
+      213: -766372532324952329
+    second: FactoryIOIcons_14
+  - first:
+      213: -8512097046424668630
+    second: FactoryIOIcons_15
+  - first:
+      213: -3854646092921400521
+    second: FactoryIOIcons_16
+  - first:
+      213: -3976454891737448693
+    second: FactoryIOIcons_17
+  - first:
+      213: -3685934995729964930
+    second: FactoryIOIcons_18
+  - first:
+      213: -224164944744087482
+    second: FactoryIOIcons_19
+  - first:
+      213: 1653466356945508328
+    second: FactoryIOIcons_20
+  - first:
+      213: 6408133874901667784
+    second: FactoryIOIcons_21
+  - first:
+      213: -8007022982893461184
+    second: FactoryIOIcons_22
+  - first:
+      213: -1503006302548826707
+    second: FactoryIOIcons_23
+  - first:
+      213: -2519210189895786601
+    second: FactoryIOIcons_24
+  - first:
+      213: -8303628800651863550
+    second: FactoryIOIcons_25
+  - first:
+      213: -309247439959713712
+    second: FactoryIOIcons_26
+  - first:
+      213: 4651391627647452324
+    second: FactoryIOIcons_27
+  - first:
+      213: 6076206479578182067
+    second: FactoryIOIcons_28
+  - first:
+      213: -5310942401952516263
+    second: FactoryIOIcons_29
+  - first:
+      213: -6233498034840978227
+    second: FactoryIOIcons_30
+  - first:
+      213: 3737778122858002360
+    second: FactoryIOIcons_31
+  - first:
+      213: -7711322589767973905
+    second: FactoryIOIcons_32
+  - first:
+      213: 1477373923551635869
+    second: FactoryIOIcons_33
+  - first:
+      213: 1403634628875478431
+    second: FactoryIOIcons_34
+  - first:
+      213: -8167090965637371088
+    second: FactoryIOIcons_35
+  - first:
+      213: -7909727768440079820
+    second: FactoryIOIcons_36
+  - first:
+      213: -3124228392449919880
+    second: FactoryIOIcons_37
+  - first:
+      213: -231475916742629346
+    second: FactoryIOIcons_38
+  - first:
+      213: -3524652011509260185
+    second: FactoryIOIcons_39
+  - first:
+      213: -6526948158315133831
+    second: FactoryIOIcons_40
+  - first:
+      213: 3606565062429555352
+    second: FactoryIOIcons_41
+  - first:
+      213: 2630716873400580789
+    second: FactoryIOIcons_42
+  - first:
+      213: -7688546621926111111
+    second: FactoryIOIcons_43
+  - first:
+      213: -4450178789003842600
+    second: FactoryIOIcons_44
+  - first:
+      213: -881627338288899795
+    second: FactoryIOIcons_45
+  - first:
+      213: 6830953342629206885
+    second: FactoryIOIcons_46
+  - first:
+      213: 5255454898882585786
+    second: FactoryIOIcons_47
+  - first:
+      213: -5204369048149810054
+    second: FactoryIOIcons_48
+  - first:
+      213: -8318562187993855021
+    second: FactoryIOIcons_49
+  - first:
+      213: 1480019731790599950
+    second: FactoryIOIcons_50
+  - first:
+      213: 7629483903673984458
+    second: FactoryIOIcons_51
+  - first:
+      213: 1029824195256746390
+    second: FactoryIOIcons_52
+  - first:
+      213: 7282606755380556744
+    second: FactoryIOIcons_53
+  - first:
+      213: -5179024177614638272
+    second: FactoryIOIcons_54
+  - first:
+      213: 2419290518427678640
+    second: FactoryIOIcons_55
+  - first:
+      213: 1624616125639524418
+    second: FactoryIOIcons_56
+  - first:
+      213: 6797569132498774750
+    second: FactoryIOIcons_57
+  - first:
+      213: -2272677187430122337
+    second: FactoryIOIcons_58
+  - first:
+      213: -969045237212236120
+    second: FactoryIOIcons_59
+  - first:
+      213: 3300089006204867259
+    second: FactoryIOIcons_60
+  - first:
+      213: -2546426399580178180
+    second: FactoryIOIcons_61
+  - first:
+      213: 6959999484996782724
+    second: FactoryIOIcons_62
+  - first:
+      213: -1846993437573870882
+    second: FactoryIOIcons_63
+  - first:
+      213: 1693667508898843270
+    second: FactoryIOIcons_64
+  - first:
+      213: -1067874595604841745
+    second: FactoryIOIcons_65
+  - first:
+      213: -4679604861960691665
+    second: FactoryIOIcons_66
+  - first:
+      213: 9165136430329168680
+    second: FactoryIOIcons_67
+  - first:
+      213: -1061135639019882606
+    second: FactoryIOIcons_68
+  - first:
+      213: -3911578523389896043
+    second: FactoryIOIcons_69
+  - first:
+      213: 946926268916781379
+    second: FactoryIOIcons_70
+  - first:
+      213: -5461949728317235699
+    second: FactoryIOIcons_71
+  - first:
+      213: 7638905719181410800
+    second: FactoryIOIcons_72
+  - first:
+      213: -935393243385693754
+    second: FactoryIOIcons_73
+  - first:
+      213: -7861161858536926791
+    second: FactoryIOIcons_74
+  - first:
+      213: -1747049213160427280
+    second: FactoryIOIcons_75
+  - first:
+      213: -7569165777490531731
+    second: FactoryIOIcons_76
+  - first:
+      213: -4743260314399377061
+    second: FactoryIOIcons_77
+  - first:
+      213: 2316454056213205844
+    second: FactoryIOIcons_78
+  - first:
+      213: 8794848108909925314
+    second: FactoryIOIcons_79
+  - first:
+      213: 3595930884445646513
+    second: FactoryIOIcons_80
+  - first:
+      213: 6900934742939434334
+    second: FactoryIOIcons_81
+  - first:
+      213: 792581729820517593
+    second: FactoryIOIcons_82
+  - first:
+      213: 3214827992999998614
+    second: FactoryIOIcons_83
+  - first:
+      213: -3445723456081989257
+    second: FactoryIOIcons_84
+  - first:
+      213: -5691120398673440581
+    second: FactoryIOIcons_85
+  - first:
+      213: 8416546789742696210
+    second: FactoryIOIcons_86
+  - first:
+      213: 115993581210889640
+    second: FactoryIOIcons_87
+  - first:
+      213: 4846377812028476225
+    second: FactoryIOIcons_88
+  - first:
+      213: -9062372810738331993
+    second: FactoryIOIcons_89
+  - first:
+      213: -3379771152179979799
+    second: FactoryIOIcons_90
+  - first:
+      213: 5290012618237449494
+    second: FactoryIOIcons_91
+  - first:
+      213: -6853166602186282096
+    second: FactoryIOIcons_92
+  - first:
+      213: -210311019752757619
+    second: FactoryIOIcons_93
+  - first:
+      213: -7032001278345492892
+    second: FactoryIOIcons_94
+  - first:
+      213: 7634215713400263774
+    second: FactoryIOIcons_95
+  - first:
+      213: -8123577630653872051
+    second: FactoryIOIcons_96
+  - first:
+      213: -8211856174586688755
+    second: FactoryIOIcons_97
+  - first:
+      213: 5364697214548492813
+    second: FactoryIOIcons_98
+  - first:
+      213: -3150841699026346247
+    second: FactoryIOIcons_99
+  - first:
+      213: 6784923680381609878
+    second: FactoryIOIcons_100
+  - first:
+      213: -7105058609977300642
+    second: FactoryIOIcons_101
+  - first:
+      213: -6991891536012434253
+    second: FactoryIOIcons_102
+  - first:
+      213: -408726385992936537
+    second: FactoryIOIcons_103
+  - first:
+      213: -869520154569278954
+    second: FactoryIOIcons_104
+  - first:
+      213: -661583855949637019
+    second: FactoryIOIcons_105
+  - first:
+      213: 6750790692638750369
+    second: FactoryIOIcons_106
+  - first:
+      213: 3639090261511353355
+    second: FactoryIOIcons_107
+  - first:
+      213: 578764602179798401
+    second: FactoryIOIcons_108
+  - first:
+      213: 2884430934079882424
+    second: FactoryIOIcons_109
+  - first:
+      213: -3669189855396335752
+    second: FactoryIOIcons_110
+  - first:
+      213: -583995009380095749
+    second: FactoryIOIcons_111
+  - first:
+      213: 503906974678285387
+    second: FactoryIOIcons_112
+  - first:
+      213: 3773457461583316434
+    second: FactoryIOIcons_113
+  - first:
+      213: 2321195210693932959
+    second: FactoryIOIcons_114
+  - first:
+      213: -1664804549903473676
+    second: FactoryIOIcons_115
+  - first:
+      213: -7253929185229790710
+    second: FactoryIOIcons_116
+  - first:
+      213: -52065024651177438
+    second: FactoryIOIcons_117
+  - first:
+      213: -6102612293581784364
+    second: FactoryIOIcons_118
+  - first:
+      213: 8351109495108481512
+    second: FactoryIOIcons_119
+  - first:
+      213: 3938156169321851077
+    second: FactoryIOIcons_120
+  - first:
+      213: -5435523200725418154
+    second: FactoryIOIcons_121
+  - first:
+      213: 3923637301514559454
+    second: FactoryIOIcons_122
+  - first:
+      213: 6840170274131250956
+    second: FactoryIOIcons_123
+  - first:
+      213: -1488703643780092303
+    second: FactoryIOIcons_124
+  - first:
+      213: 2781859704038950965
+    second: FactoryIOIcons_125
+  - first:
+      213: 5360166635050053090
+    second: FactoryIOIcons_126
+  - first:
+      213: -7108343305465460948
+    second: FactoryIOIcons_127
+  - first:
+      213: 8132423406651603253
+    second: FactoryIOIcons_128
+  - first:
+      213: -9057460256409830622
+    second: FactoryIOIcons_129
+  - first:
+      213: -1170889089546356474
+    second: FactoryIOIcons_130
+  - first:
+      213: -1012815914991596704
+    second: FactoryIOIcons_131
+  - first:
+      213: 2958386189779115846
+    second: FactoryIOIcons_132
+  - first:
+      213: 1144850379307637315
+    second: FactoryIOIcons_133
+  - first:
+      213: -8075740593331770150
+    second: FactoryIOIcons_134
+  - first:
+      213: 7529647253600013688
+    second: FactoryIOIcons_135
+  - first:
+      213: 7473288589885967867
+    second: FactoryIOIcons_136
+  - first:
+      213: 8432400088185938175
+    second: FactoryIOIcons_137
+  - first:
+      213: -2968067452686352591
+    second: FactoryIOIcons_138
+  - first:
+      213: -4570810645632632013
+    second: FactoryIOIcons_139
+  - first:
+      213: -3160160146345428213
+    second: FactoryIOIcons_140
+  - first:
+      213: 9087974297245230460
+    second: FactoryIOIcons_141
+  - first:
+      213: -8109745046882080875
+    second: FactoryIOIcons_142
+  - first:
+      213: -1187244561023434966
+    second: FactoryIOIcons_143
+  - first:
+      213: 8579974873869458494
+    second: FactoryIOIcons_144
+  - first:
+      213: 3063920478761732959
+    second: FactoryIOIcons_145
+  - first:
+      213: 4016076839349513193
+    second: FactoryIOIcons_146
+  - first:
+      213: 5381717775904539255
+    second: FactoryIOIcons_147
+  - first:
+      213: 307891307770272738
+    second: FactoryIOIcons_148
+  - first:
+      213: -3236551752568261251
+    second: FactoryIOIcons_149
+  - first:
+      213: -3670378556389727462
+    second: FactoryIOIcons_150
+  - first:
+      213: 1326835274826144633
+    second: FactoryIOIcons_151
+  - first:
+      213: -572332309813822877
+    second: FactoryIOIcons_152
+  - first:
+      213: -3164697651252767931
+    second: FactoryIOIcons_153
+  - first:
+      213: -2719470663683679728
+    second: FactoryIOIcons_154
+  - first:
+      213: -5557692150651256685
+    second: FactoryIOIcons_155
+  - first:
+      213: 1962866082609975033
+    second: FactoryIOIcons_156
+  - first:
+      213: -1706930737161213513
+    second: FactoryIOIcons_157
+  - first:
+      213: 8154538000841090667
+    second: FactoryIOIcons_158
+  - first:
+      213: -4178679935158286942
+    second: FactoryIOIcons_159
+  - first:
+      213: -7918466295561762917
+    second: FactoryIOIcons_160
+  - first:
+      213: 4304561231765351551
+    second: FactoryIOIcons_161
+  - first:
+      213: 8772560638088178369
+    second: FactoryIOIcons_162
+  - first:
+      213: -3687220901185277698
+    second: FactoryIOIcons_163
+  - first:
+      213: 4043146797001798121
+    second: FactoryIOIcons_164
+  - first:
+      213: 5168222420299794452
+    second: FactoryIOIcons_165
+  - first:
+      213: -2294585351634496600
+    second: FactoryIOIcons_166
+  - first:
+      213: 1775225170961848161
+    second: FactoryIOIcons_167
+  - first:
+      213: 374267110544702663
+    second: FactoryIOIcons_168
+  - first:
+      213: -7247521443313321712
+    second: FactoryIOIcons_169
+  - first:
+      213: -4494197876092490008
+    second: FactoryIOIcons_170
+  - first:
+      213: -4885754035821981309
+    second: FactoryIOIcons_171
+  - first:
+      213: -6378760540504821931
+    second: FactoryIOIcons_172
+  - first:
+      213: -6778370765517359076
+    second: FactoryIOIcons_173
+  - first:
+      213: -5990167633441917477
+    second: FactoryIOIcons_174
+  - first:
+      213: -3994970617952232606
+    second: FactoryIOIcons_175
+  - first:
+      213: 3999579533218221563
+    second: FactoryIOIcons_176
+  - first:
+      213: -5472171545109084808
+    second: FactoryIOIcons_177
+  - first:
+      213: 4651445633366600824
+    second: FactoryIOIcons_178
+  - first:
+      213: -9172415524940769903
+    second: FactoryIOIcons_179
+  - first:
+      213: 3976880552941702277
+    second: FactoryIOIcons_180
+  - first:
+      213: -5531120833976575663
+    second: FactoryIOIcons_181
+  - first:
+      213: -4374902172884147557
+    second: FactoryIOIcons_182
+  - first:
+      213: 3906674056156288534
+    second: FactoryIOIcons_183
+  - first:
+      213: -7210567384677101986
+    second: FactoryIOIcons_184
+  - first:
+      213: 8207106144607574594
+    second: FactoryIOIcons_185
+  - first:
+      213: 8651281748633157091
+    second: FactoryIOIcons_186
+  - first:
+      213: -489958331451884355
+    second: FactoryIOIcons_187
+  - first:
+      213: -6193262457286284547
+    second: FactoryIOIcons_188
+  - first:
+      213: 5821883055151639118
+    second: FactoryIOIcons_189
+  - first:
+      213: -3212741456405142438
+    second: FactoryIOIcons_190
+  - first:
+      213: -5189242400976097444
+    second: FactoryIOIcons_191
+  - first:
+      213: 4871688313519814071
+    second: FactoryIOIcons_192
+  - first:
+      213: -215597034273534232
+    second: FactoryIOIcons_193
+  - first:
+      213: -1738721406554510860
+    second: FactoryIOIcons_194
+  - first:
+      213: 3434912432835340829
+    second: FactoryIOIcons_195
+  - first:
+      213: -5015879496647591471
+    second: FactoryIOIcons_196
+  - first:
+      213: 8549227851205948143
+    second: FactoryIOIcons_197
+  - first:
+      213: 6489857490221443586
+    second: FactoryIOIcons_198
+  - first:
+      213: -3021837226581019860
+    second: FactoryIOIcons_199
+  - first:
+      213: -644604997326810610
+    second: FactoryIOIcons_200
+  - first:
+      213: -5580682889805503679
+    second: FactoryIOIcons_201
+  - first:
+      213: 467209101677446392
+    second: FactoryIOIcons_202
+  - first:
+      213: -9205690516043367406
+    second: FactoryIOIcons_203
+  - first:
+      213: 5194077263786886639
+    second: FactoryIOIcons_204
+  - first:
+      213: -7575176705237244234
+    second: FactoryIOIcons_205
+  - first:
+      213: 4330198892507415815
+    second: FactoryIOIcons_206
+  - first:
+      213: -3003715103439542102
+    second: FactoryIOIcons_207
+  - first:
+      213: 7631580160502426126
+    second: FactoryIOIcons_208
+  - first:
+      213: -1251567800769553593
+    second: FactoryIOIcons_209
+  - first:
+      213: 765399623232386859
+    second: FactoryIOIcons_210
+  - first:
+      213: -2616007012646942474
+    second: FactoryIOIcons_211
+  - first:
+      213: 1298024386439539515
+    second: FactoryIOIcons_212
+  - first:
+      213: -7010527384123457823
+    second: FactoryIOIcons_213
+  - first:
+      213: -7494763664728040524
+    second: FactoryIOIcons_214
+  - first:
+      213: 5136959609927438142
+    second: FactoryIOIcons_215
+  - first:
+      213: 7228572086318207958
+    second: FactoryIOIcons_216
+  - first:
+      213: 3667365261440208743
+    second: FactoryIOIcons_217
+  - first:
+      213: 7354610977078223761
+    second: FactoryIOIcons_218
+  - first:
+      213: -8212400926455072593
+    second: FactoryIOIcons_219
+  - first:
+      213: -1477873636322446609
+    second: FactoryIOIcons_220
+  - first:
+      213: -2768985367415004856
+    second: FactoryIOIcons_221
+  - first:
+      213: 7033368345233423353
+    second: FactoryIOIcons_222
+  - first:
+      213: 5900771696810892181
+    second: FactoryIOIcons_223
+  - first:
+      213: 7281979024728365221
+    second: FactoryIOIcons_224
+  - first:
+      213: -8594457125149520639
+    second: FactoryIOIcons_225
+  - first:
+      213: -4915136395719065070
+    second: FactoryIOIcons_226
+  - first:
+      213: -1896970451378755808
+    second: FactoryIOIcons_227
+  - first:
+      213: -341070461928552040
+    second: FactoryIOIcons_228
+  - first:
+      213: 152114776580321491
+    second: FactoryIOIcons_229
+  - first:
+      213: -5634553134305956494
+    second: FactoryIOIcons_230
+  - first:
+      213: 5974173488826613604
+    second: FactoryIOIcons_231
+  - first:
+      213: 1107156020376723578
+    second: ToggleBoxYes
+  - first:
+      213: -7493293182005977910
+    second: TrggleBoxNo
+  - first:
+      213: 519524533982920975
+    second: FactoryIOIcons_234
+  - first:
+      213: 4607819682473454795
+    second: FactoryIOIcons_235
+  - first:
+      213: -7525534843142005728
+    second: FactoryIOIcons_236
+  - first:
+      213: -44441694955495639
+    second: FactoryIOIcons_237
+  - first:
+      213: 2208842133873982648
+    second: FactoryIOIcons_238
+  - first:
+      213: -3951156286609316115
+    second: FactoryIOIcons_239
+  - first:
+      213: -3906999449525843372
+    second: FactoryIOIcons_240
+  - first:
+      213: 7953987794961629520
+    second: FactoryIOIcons_241
+  - first:
+      213: -5541746639711093850
+    second: FactoryIOIcons_242
+  - first:
+      213: 1614135326987163507
+    second: FactoryIOIcons_243
+  - first:
+      213: 4677397977822197573
+    second: FactoryIOIcons_244
+  - first:
+      213: -1021809905641016537
+    second: FactoryIOIcons_245
+  - first:
+      213: 7593793401358053923
+    second: FactoryIOIcons_246
+  - first:
+      213: -5233477686958228063
+    second: FactoryIOIcons_247
+  - first:
+      213: 7858021369511261382
+    second: FactoryIOIcons_248
+  - first:
+      213: -742818100543333483
+    second: FactoryIOIcons_249
+  - first:
+      213: -1963818267656747273
+    second: FactoryIOIcons_250
+  - first:
+      213: 2445954584828690038
+    second: FactoryIOIcons_251
+  - first:
+      213: -1553670741362362169
+    second: FactoryIOIcons_252
+  - first:
+      213: 1878036876959015214
+    second: FactoryIOIcons_253
+  - first:
+      213: 6485670837867499325
+    second: FactoryIOIcons_254
+  - first:
+      213: 8539760685650616845
+    second: FactoryIOIcons_255
+  - first:
+      213: -7529402432586826695
+    second: FactoryIOIcons_256
+  - first:
+      213: 4364956863879255154
+    second: FactoryIOIcons_257
+  - first:
+      213: 6020779762943415386
+    second: FactoryIOIcons_258
+  - first:
+      213: 4851664900568596422
+    second: FactoryIOIcons_259
+  - first:
+      213: 3305671247365092028
+    second: FactoryIOIcons_260
+  - first:
+      213: -5224259986363344807
+    second: FactoryIOIcons_261
+  - first:
+      213: 6481083354469677071
+    second: FactoryIOIcons_262
+  - first:
+      213: 4651702768447236527
+    second: FactoryIOIcons_263
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FactoryIOIcons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151bcb25d6ec7680800000000000000
+      internalID: -8755869772277934829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightBoxArrow
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 235
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032678ac992f6d940800000000000000
+      internalID: 5320706752126607920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 235
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0daea1c7ea31b3e0800000000000000
+      internalID: -2039784389160817398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 235
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d4aa872aeddc20800000000000000
+      internalID: 3232997563072566747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 235
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74529cc18f3f8e230800000000000000
+      internalID: 3668450143453652295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropdownArrow
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 249
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee54f727bc5173e0800000000000000
+      internalID: -2057761613012508957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 236
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa767793322a9ab70800000000000000
+      internalID: 8910831609900918703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 227
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408c4705608aea80800000000000000
+      internalID: -8436789780522696633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 227
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7826544bcbba420f0800000000000000
+      internalID: -1142599578478615929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 248
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9968b1795903f80800000000000000
+      internalID: -8128832851169338894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 242
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf219d25c39af40800000000000000
+      internalID: 5740185526587292497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 226
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c0838f38b513e90800000000000000
+      internalID: -7047751319494849501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 239
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde8e38f7acdec00800000000000000
+      internalID: 931623346958298575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f697250e3c4d55f0800000000000000
+      internalID: -766372532324952329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26b436d5d4fed980800000000000000
+      internalID: -8512097046424668630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 245
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73392902dcb818ac0800000000000000
+      internalID: -3854646092921400521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 245
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fff98185bc0d8c0800000000000000
+      internalID: -3976454891737448693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 235
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a55a76ade8dcc0800000000000000
+      internalID: -3685934995729964930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 225
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6400f61ab2b93ecf0800000000000000
+      internalID: -224164944744087482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 241
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7dbc524ea42f610800000000000000
+      internalID: 1653466356945508328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 231
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf49a6bec34ee850800000000000000
+      internalID: 6408133874901667784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 236
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0412f34250751e090800000000000000
+      internalID: -8007022982893461184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 236
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da567692bbf342be0800000000000000
+      internalID: -1503006302548826707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 236
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f97bcfda7f90dd0800000000000000
+      internalID: -2519210189895786601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a517ea99593cc80800000000000000
+      internalID: -8303628800651863550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0589081871555bbf0800000000000000
+      internalID: -309247439959713712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 186
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4072d8a001d8040800000000000000
+      internalID: 4651391627647452324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b13f2d9995035450800000000000000
+      internalID: 6076206479578182067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577f05260ebb46b0800000000000000
+      internalID: -5310942401952516263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3535509a2e79a0800000000000000
+      internalID: -6233498034840978227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 218
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77d2e26614fd330800000000000000
+      internalID: 3737778122858002360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_32
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe34f6006f0ebf490800000000000000
+      internalID: -7711322589767973905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_33
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 214
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9968b981cfa08410800000000000000
+      internalID: 1477373923551635869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f956f881246ba7310800000000000000
+      internalID: 1403634628875478431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03be1e0b90aa8ae80800000000000000
+      internalID: -8167090965637371088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_36
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43af51c80800b3290800000000000000
+      internalID: -7909727768440079820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 202
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87435d674d284a4d0800000000000000
+      internalID: -3124228392449919880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 202
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e186f7051e1a9ccf0800000000000000
+      internalID: -231475916742629346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 202
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760ef118babe51fc0800000000000000
+      internalID: -3524652011509260185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 199
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9748c343b3f9b65a0800000000000000
+      internalID: -6526948158315133831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 199
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ab27dd0d71d0230800000000000000
+      internalID: 3606565062429555352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 199
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bafaa7ee0f228420800000000000000
+      internalID: 2630716873400580789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9788011459bcc4590800000000000000
+      internalID: -7688546621926111111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_44
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba27e28f9cd32c0800000000000000
+      internalID: -4450178789003842600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29540d5b94d3c3f0800000000000000
+      internalID: -881627338288899795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_46
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b5ea88fdb6cce50800000000000000
+      internalID: 6830953342629206885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 186
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4abfcc2602fe840800000000000000
+      internalID: 5255454898882585786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 202
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742ef4bced56c7b0800000000000000
+      internalID: -5204369048149810054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 201
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db41ae73c78e8c80800000000000000
+      internalID: -8318562187993855021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_50
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 209
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0792f5ca161a8410800000000000000
+      internalID: 1480019731790599950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 209
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac56c0a003f51e960800000000000000
+      internalID: 7629483903673984458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 209
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691816b36abaa4e00800000000000000
+      internalID: 1029824195256746390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 177
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c371555244011560800000000000000
+      internalID: 7282606755380556744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 177
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043be1a33f86028b0800000000000000
+      internalID: -5179024177614638272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 177
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73a5798eb039120800000000000000
+      internalID: 2419290518427678640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 197
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408d1932cbcb8610800000000000000
+      internalID: 1624616125639524418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 197
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaefb66c11d55e50800000000000000
+      internalID: 6797569132498774750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf712a324d570e0800000000000000
+      internalID: -2272677187430122337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_59
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a63ea0bd724d82f0800000000000000
+      internalID: -969045237212236120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2530e67754ccd20800000000000000
+      internalID: 3300089006204867259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 177
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b85e5ea649acd0800000000000000
+      internalID: -2546426399580178180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_62
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 177
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a822ce7a2e69060800000000000000
+      internalID: 6959999484996782724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_63
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8eea11492e56e0800000000000000
+      internalID: -1846993437573870882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 176
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a498b30ad118710800000000000000
+      internalID: 1693667508898843270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_65
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 188
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3f4096b52e21f0800000000000000
+      internalID: -1067874595604841745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_66
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2064a1fb24be0fb0800000000000000
+      internalID: -4679604861960691665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82303cf360b113f70800000000000000
+      internalID: 9165136430329168680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29776b922c61641f0800000000000000
+      internalID: -1061135639019882606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_69
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 125
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5c42be0847b9c0800000000000000
+      internalID: -3911578523389896043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_70
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341554fac68242d00800000000000000
+      internalID: 946926268916781379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_71
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 175
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e1c9629a14334b0800000000000000
+      internalID: -5461949728317235699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f102886748d20a60800000000000000
+      internalID: 7638905719181410800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f1b21dc0d403f0800000000000000
+      internalID: -935393243385693754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_74
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19e0c90fa87e290800000000000000
+      internalID: -7861161858536926791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_75
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f072743ffb31c7e0800000000000000
+      internalID: -1747049213160427280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_76
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a22aa14dbe4f690800000000000000
+      internalID: -7569165777490531731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59740bffdd8c2eb0800000000000000
+      internalID: -4743260314399377061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_78
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d917e0b2b52020800000000000000
+      internalID: 2316454056213205844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 155
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3971902c39d0a70800000000000000
+      internalID: 8794848108909925314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2d3c561057e130800000000000000
+      internalID: 3595930884445646513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_81
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7e03069b05cf50800000000000000
+      internalID: 6900934742939434334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4aa6d42e0dffa00800000000000000
+      internalID: 792581729820517593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_83
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943fb8d60d5d9c20800000000000000
+      internalID: 3214827992999998614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_84
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 152
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771700ed5c45e20d0800000000000000
+      internalID: -3445723456081989257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_85
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0171776241501b0800000000000000
+      internalID: -5691120398673440581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_86
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217511666b49dc470800000000000000
+      internalID: 8416546789742696210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adec4c2c871c9100800000000000000
+      internalID: 115993581210889640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_88
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bca4d51fac14340800000000000000
+      internalID: 4846377812028476225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_89
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 149
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae88c171fbfb3280800000000000000
+      internalID: -9062372810738331993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_90
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 155
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9133c3b04a811d0800000000000000
+      internalID: -3379771152179979799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_91
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 125
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159067d276e96940800000000000000
+      internalID: 5290012618237449494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_92
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bad12f849a4e0a0800000000000000
+      internalID: -6853166602186282096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_93
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d866947ed33d41df0800000000000000
+      internalID: -210311019752757619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_94
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466cf103810596e90800000000000000
+      internalID: -7032001278345492892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_95
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 122
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549de75ebe22f960800000000000000
+      internalID: 7634215713400263774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_96
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 134
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48019b7f21434f80800000000000000
+      internalID: -8123577630653872051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 140
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b89274150a90e80800000000000000
+      internalID: -8211856174586688755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_98
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 140
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02c0b871bb337a40800000000000000
+      internalID: 5364697214548492813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_99
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 136
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fedb0a2b26f544d0800000000000000
+      internalID: -3150841699026346247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_100
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6972845a324e82e50800000000000000
+      internalID: 6784923680381609878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e8f3a6d2c56d90800000000000000
+      internalID: -7105058609977300642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_102
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 128
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b42bef41bfc7fe90800000000000000
+      internalID: -6991891536012434253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_103
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 113
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3df887489e35af0800000000000000
+      internalID: -408726385992936537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_104
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61afaddb608dee3f0800000000000000
+      internalID: -869520154569278954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_105
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 126
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1dfcfcf491d6f0800000000000000
+      internalID: -661583855949637019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_106
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 124
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6feb32e50afad50800000000000000
+      internalID: 6750790692638750369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_107
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04b7f6ef45a08230800000000000000
+      internalID: 3639090261511353355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_108
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1854f79d65f280800800000000000000
+      internalID: 578764602179798401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4caf4f6ae870820800000000000000
+      internalID: 2884430934079882424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_110
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f62a7444b641dc0800000000000000
+      internalID: -3669189855396335752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_111
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 98
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf86c4312ab35e7f0800000000000000
+      internalID: -583995009380095749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 98
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7a8149bc3ef600800000000000000
+      internalID: 503906974678285387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_113
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 112
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d588b491930e5430800000000000000
+      internalID: 3773457461583316434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_114
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 82
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ffb3feba863020800000000000000
+      internalID: 2321195210693932959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_115
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3ac86151d65e8e0800000000000000
+      internalID: -1664804549903473676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_116
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022a88c6ddd45b90800000000000000
+      internalID: -7253929185229790710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_117
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222d17cc227074ff0800000000000000
+      internalID: -52065024651177438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da3027b37a2f4ba0800000000000000
+      internalID: -6102612293581784364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_119
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 112
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13558f6d915e370800000000000000
+      internalID: 8351109495108481512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_120
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 110
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82176bb2427a630800000000000000
+      internalID: 3938156169321851077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_121
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 110
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ffd5492742194b0800000000000000
+      internalID: -5435523200725418154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_122
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf5f30665f837630800000000000000
+      internalID: 3923637301514559454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_123
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f87c0af9a2dee50800000000000000
+      internalID: 6840170274131250956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_124
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 101
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e68a86cef075be0800000000000000
+      internalID: -1488703643780092303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_125
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 101
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538073279a62b9620800000000000000
+      internalID: 2781859704038950965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_126
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 101
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2f0bb723236a40800000000000000
+      internalID: 5360166635050053090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_127
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 77
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c278430ec671a5d90800000000000000
+      internalID: -7108343305465460948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_128
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397a8c300c2cd070800000000000000
+      internalID: 8132423406651603253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_129
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b3971a2ef6d4280800000000000000
+      internalID: -9057460256409830622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_130
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6097532a39a20cfe0800000000000000
+      internalID: -1170889089546356474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_131
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 83
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b401c9a41c1f1f0800000000000000
+      internalID: -1012815914991596704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f943eb09c4e0920800000000000000
+      internalID: 2958386189779115846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_133
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a5a93ba5353ef00800000000000000
+      internalID: 1144850379307637315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_134
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adce14ca7b43def80800000000000000
+      internalID: -8075740593331770150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_135
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d03da884eae7860800000000000000
+      internalID: 7529647253600013688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_136
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0228906476b760800000000000000
+      internalID: 7473288589885967867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_137
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ab441437e50570800000000000000
+      internalID: 8432400088185938175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_138
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f3b35906e4fc6d0800000000000000
+      internalID: -2968067452686352591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_139
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b3e7b5fe73190c0800000000000000
+      internalID: -4570810645632632013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_140
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bfbb3171bd424d0800000000000000
+      internalID: -3160160146345428213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_141
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 71
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ae232978fe1e70800000000000000
+      internalID: 9087974297245230460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_142
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5972c9dd8d5647f80800000000000000
+      internalID: -8109745046882080875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_143
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ffeaeac5f068fe0800000000000000
+      internalID: -1187244561023434966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_144
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c14ca60b1321770800000000000000
+      internalID: 8579974873869458494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_145
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b43ac217b358a20800000000000000
+      internalID: 3063920478761732959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_146
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebe9187b98fbb730800000000000000
+      internalID: 4016076839349513193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_147
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772023abdc3bfaa40800000000000000
+      internalID: 5381717775904539255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_148
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd31d5389d54400800000000000000
+      internalID: 307891307770272738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_149
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75300b34557513d0800000000000000
+      internalID: -3236551752568261251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_150
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13ed234622301dc0800000000000000
+      internalID: -3670378556389727462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_151
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b587f07add96210800000000000000
+      internalID: 1326835274826144633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_152
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a711cebcaae08f0800000000000000
+      internalID: -572332309813822877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_153
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543d093e04cb414d0800000000000000
+      internalID: -3164697651252767931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_154
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad90af6df724ad0800000000000000
+      internalID: -2719470663683679728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_155
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39084755f6c1fd2b0800000000000000
+      internalID: -5557692150651256685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_156
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe41ab6d408d3b10800000000000000
+      internalID: 1962866082609975033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_157
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b96f4bc983cf48e0800000000000000
+      internalID: -1706930737161213513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_158
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ae8f6b1dba2170800000000000000
+      internalID: 8154538000841090667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a586d21db85206c0800000000000000
+      internalID: -4178679935158286942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_160
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974327abd4fb1290800000000000000
+      internalID: -7918466295561762917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_161
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7caa4d32afdcbb30800000000000000
+      internalID: 4304561231765351551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_162
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 56
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae1dbdb656eb970800000000000000
+      internalID: 8772560638088178369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_163
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b478402c54dcc0800000000000000
+      internalID: -3687220901185277698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 35
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1fc0227942c1830800000000000000
+      internalID: 4043146797001798121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_165
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418cd2aa8e639b740800000000000000
+      internalID: 5168222420299794452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_166
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 67
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d209a7cef720e0800000000000000
+      internalID: -2294585351634496600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_167
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167538f23edd2a810800000000000000
+      internalID: 1775225170961848161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_168
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccf02f34f9a13500800000000000000
+      internalID: 374267110544702663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_169
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019784575a1ab6b90800000000000000
+      internalID: -7247521443313321712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_170
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee213dc7d661a1c0800000000000000
+      internalID: -4494197876092490008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_171
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38156ea1790523cb0800000000000000
+      internalID: -4885754035821981309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_172
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6ee3a5171a77a0800000000000000
+      internalID: -6378760540504821931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_173
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f17db3b36ee1a0800000000000000
+      internalID: -6778370765517359076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_174
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f6af4646aedca0800000000000000
+      internalID: -5990167633441917477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_175
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b95d4a3630f88c0800000000000000
+      internalID: -3994970617952232606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_176
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0560156c518730800000000000000
+      internalID: 3999579533218221563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_177
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c5c7f8f0fe04b0800000000000000
+      internalID: -5472171545109084808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_178
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cabdcb8214d8040800000000000000
+      internalID: 4651445633366600824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_179
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19590a77da805b080800000000000000
+      internalID: -9172415524940769903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_180
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ccf30eac7b03730800000000000000
+      internalID: 3976880552941702277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_181
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159501918e28d33b0800000000000000
+      internalID: -5531120833976575663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_182
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92e72a27a93943c0800000000000000
+      internalID: -4374902172884147557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_183
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6161e6a0b5b473630800000000000000
+      internalID: 3906674056156288534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_184
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ecd47ba2beeeb90800000000000000
+      internalID: -7210567384677101986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_185
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a924f2e8f75e170800000000000000
+      internalID: 8207106144607574594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_186
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed7917f9e68f0870800000000000000
+      internalID: 8651281748633157091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_187
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 57
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc31135e715339f0800000000000000
+      internalID: -489958331451884355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_188
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa20b0cb9c1d0aa0800000000000000
+      internalID: -6193262457286284547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_189
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 50
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aed220bcb7bc050800000000000000
+      internalID: 5821883055151639118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_190
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54eccfcaac0a63d0800000000000000
+      internalID: -3212741456405142438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_191
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fac64b78b1cf7b0800000000000000
+      internalID: -5189242400976097444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_192
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b535c7b5b6bb9340800000000000000
+      internalID: 4871688313519814071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_193
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee8f7db3ab020df0800000000000000
+      internalID: -215597034273534232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_194
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f963f6c712ded7e0800000000000000
+      internalID: -1738721406554510860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_195
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a29b1a8a24baf20800000000000000
+      internalID: 3434912432835340829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_196
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9b72e4c24046ab0800000000000000
+      internalID: -5015879496647591471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_197
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b1075f65f4a670800000000000000
+      internalID: 8549227851205948143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_198
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aae8ba00b901a50800000000000000
+      internalID: 6489857490221443586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_199
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2336948d074016d0800000000000000
+      internalID: -3021837226581019860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_200
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02d4e19b27ed07f0800000000000000
+      internalID: -644604997326810610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_201
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143ea0dba7e6d82b0800000000000000
+      internalID: -5580682889805503679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_202
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4405dd33cdb7600800000000000000
+      internalID: 467209101677446392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_203
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7d0fdf31de3080800000000000000
+      internalID: -9205690516043367406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_204
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe543f380c1151840800000000000000
+      internalID: 5194077263786886639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_205
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6258debe09fd690800000000000000
+      internalID: -7575176705237244234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_206
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705c1ba43f4f71c30800000000000000
+      internalID: 4330198892507415815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_207
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a20d1709a056d0800000000000000
+      internalID: -3003715103439542102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_208
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 35
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a6aadd8b1d8e960800000000000000
+      internalID: 7631580160502426126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_209
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 35
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b50de57b981aee0800000000000000
+      internalID: -1251567800769553593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_210
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 35
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27fbfde6ee3f9a00800000000000000
+      internalID: 765399623232386859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_211
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 50
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88f317b7312bbd0800000000000000
+      internalID: -2616007012646942474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_212
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 50
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be58f5d42830210800000000000000
+      internalID: 1298024386439539515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_213
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 50
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee3c2dcc7a95be90800000000000000
+      internalID: -7010527384123457823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_214
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 50
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb5168e7204df790800000000000000
+      internalID: -7494763664728040524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_215
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 50
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f01476c852a4740800000000000000
+      internalID: 5136959609927438142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_216
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 51
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d31d4e830c015460800000000000000
+      internalID: 7228572086318207958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_217
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 50
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f40c5564915e230800000000000000
+      internalID: 3667365261440208743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_218
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 51
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193afed97b3d01660800000000000000
+      internalID: 7354610977078223761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_219
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 50
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa87e895ed0b70e80800000000000000
+      internalID: -8212400926455072593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_220
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 50
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f51402c98d7be0800000000000000
+      internalID: -1477873636322446609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_221
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84169f2aa769299d0800000000000000
+      internalID: -2768985367415004856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_222
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 29
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7d10ee3b8b9160800000000000000
+      internalID: 7033368345233423353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_223
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 29
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b97193890c3e150800000000000000
+      internalID: 5900771696810892181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_224
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 29
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a897c66759ce0560800000000000000
+      internalID: 7281979024728365221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_225
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d4322b7ca5ab880800000000000000
+      internalID: -8594457125149520639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_226
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21242965d7de9cbb0800000000000000
+      internalID: -4915136395719065070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_227
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0272820dc6b9ca5e0800000000000000
+      internalID: -1896970451378755808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_228
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ce51d836444bf0800000000000000
+      internalID: -341070461928552040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_229
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07827559b6c1200800000000000000
+      internalID: 152114776580321491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_230
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d21a907cb0ec1b0800000000000000
+      internalID: -5634553134305956494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_231
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ff014b22788e250800000000000000
+      internalID: 5974173488826613604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleBoxYes
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a706d79d8886d5f00800000000000000
+      internalID: 1107156020376723578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrggleBoxNo
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5da85d89720890800000000000000
+      internalID: -7493293182005977910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_234
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 28
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f010724afc8b53700800000000000000
+      internalID: 519524533982920975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_235
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 29
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc22e2869342ff30800000000000000
+      internalID: 4607819682473454795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_236
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 38
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c12b1aeedef8790800000000000000
+      internalID: -7525534843142005728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_237
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 36
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f16fe838c126ff0800000000000000
+      internalID: -44441694955495639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_238
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 36
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc7972c73267ae10800000000000000
+      internalID: 2208842133873982648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_239
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 36
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a99c9a4caa29c0800000000000000
+      internalID: -3951156286609316115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_240
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 29
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a8d5963bc87c9c0800000000000000
+      internalID: -3906999449525843372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_241
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0510b7ae1cd326e60800000000000000
+      internalID: 7953987794961629520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_242
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab3ec8eac2c713b0800000000000000
+      internalID: -5541746639711093850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_243
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3779a70278f866610800000000000000
+      internalID: 1614135326987163507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_244
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547f83dcda479e040800000000000000
+      internalID: 4677397977822197573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_245
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 103
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ba4afd4dc1d1f0800000000000000
+      internalID: -1021809905641016537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_246
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 22
+        width: 160
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322f6a96dd2926960800000000000000
+      internalID: 7593793401358053923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_247
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 21
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adfbe895c3fe57b0800000000000000
+      internalID: -5233477686958228063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_248
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 21
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b52f4dcc4d0d60800000000000000
+      internalID: 7858021369511261382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_249
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b52688fdaf0b5f0800000000000000
+      internalID: -742818100543333483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_250
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f685e8b0bd1fb4e0800000000000000
+      internalID: -1963818267656747273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_251
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb3755cb6c1f120800000000000000
+      internalID: 2445954584828690038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_252
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8bd2341b0407ae0800000000000000
+      internalID: -1553670741362362169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_253
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e93ed690201a10800000000000000
+      internalID: 1878036876959015214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_254
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fc335b34bb10a50800000000000000
+      internalID: 6485670837867499325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_255
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d022d071913538670800000000000000
+      internalID: 8539760685650616845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_256
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c33ba4160328790800000000000000
+      internalID: -7529402432586826695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_257
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2741d632421739c30800000000000000
+      internalID: 4364956863879255154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_258
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545a118b4b1e8350800000000000000
+      internalID: 6020779762943415386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_259
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3f979583945340800000000000000
+      internalID: 4851664900568596422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_260
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb23b6b3c7a10ed20800000000000000
+      internalID: 3305671247365092028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_261
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 148
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589682c833bf77b0800000000000000
+      internalID: -5224259986363344807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_262
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 132
+        width: 2
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08bcdef8fe61f950800000000000000
+      internalID: 6481083354469677071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryIOIcons_263
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 125
+        width: 2
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9aff9a50b2e8040800000000000000
+      internalID: 4651702768447236527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

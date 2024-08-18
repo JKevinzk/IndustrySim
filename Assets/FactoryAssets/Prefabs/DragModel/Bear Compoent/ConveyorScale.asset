@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb994f572dac7749bc9339292dc67f4, type: 3}
+  m_Name: ConveyorScale
+  m_EditorClassIdentifier: 
+  nameString: ConveyorScale
+  prefab: {fileID: 8776586812772736797, guid: 9bd9d781b3054c44588e8bbdfa43f35e, type: 3}
+  width: 0.875
+  length: 1.25
+  componentType: 2
