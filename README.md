@@ -1,1 +1,3 @@
 # IndustrySim
+
+This project is developed on the Unity platform, based on the concept of digital twins, and it implements a 3D configuration software development platform that integrates PLC control program development, debugging, and simulation. By constructing 3D industrial virtual scenes, writing PLC controller code, and executing controller programs, the platform controls the operation of a fully virtual automated production line, enabling dynamic simulation and data interaction of the entire production process. The platform supports PLC serial communication, PLC address signal mapping, configuration management of virtual industrial components, scene saving and loading, and industrial physics simulation.
